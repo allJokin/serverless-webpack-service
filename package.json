@@ -8,6 +8,6 @@
   "scripts": {
     "build": "yarn workspace my-package build",
     "predeploy": "yarn build",
-    "deploy": "yarn workspace serverless-bundle-service deploy"
+    "deploy": "yarn workspace serverless-webpack-service deploy"
   }
 }
